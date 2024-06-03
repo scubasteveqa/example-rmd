@@ -3,7 +3,7 @@
   "locale": "C",
   "platform": "4.4.0",
   "metadata": {
-    "appmode": "rmd-static",
+    "appmode": "rmd-shiny",
     "primary_rmd": "example.Rmd",
     "primary_html": null,
     "content_category": null,
