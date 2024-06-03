@@ -3,9 +3,9 @@ title: "Example RMarkdown Document"
 author: "Anonymous"
 date: "2024-06-03"
 output:
-  word_document: default
-  html_document: default
-  pdf_document: default
+  #word_document: default
+  #html_document: default
+  #pdf_document: default
   rmarkdown: default
 ---
 
