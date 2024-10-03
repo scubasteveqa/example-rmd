@@ -1,7 +1,7 @@
 ---
 title: "Example RMarkdown Document"
 author: "Anonymous"
-date: "2024-06-03"
+date: Sys.time()
 output:
   #word_document: default
   #html_document: default
